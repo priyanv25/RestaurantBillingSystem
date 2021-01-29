@@ -1,13 +1,13 @@
 THIS IS A JAVA PROJECT IMPLEMENTING BASIC CONCEPTS. 
 SOFTWARE REQUIRED-ANY JAVA IDE[PROJECT WAS MADE USING BLUEJ]
 
-## OVERVIEW
+OVERVIEW
 
 
 This project is a basic restraunt billing system developed using the java.
 The modules contained are : MENU , billing interface.
 The interface is developed for the cashier where he/she select items from menu and generate a bill.
 
-### Softwares 
+SOFTWARE
 The code was developed using BLUEJ IDE and any similar developement environments can be used to run the project.
 
