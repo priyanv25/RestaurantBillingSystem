@@ -1,14 +1,14 @@
-RESTAURAUNT-BILLING
+RESTAURANT-BILLING
 
-THIS IS A JAVA PROJECT IMPLEMENTING BASIC CONCEPTS. 
+THIS IS A JAVA PROJECT IMPLEMENTING BASIC CONCEPTS DEVELOPED AS A PART OF MY HIGH SCHOOL JAVA CIRICULLUM. 
 SOFTWARE REQUIRED-ANY JAVA IDE[PROJECT WAS MADE USING BLUEJ]
 
 OVERVIEW
 
 
-This project is a basic restraunt billing system developed using the java.
+This project is a basic restaurant billing system .
 The modules contained are : MENU , billing interface.
-The interface is developed for the cashier where he/she select items from menu and generate a bill.
+The interface is developed for the cashier where he/she selects items from the menu after which , the bill is automatically generated.
 
 SOFTWARE
 The code was developed using BLUEJ IDE and any similar developement environments can be used to run the project.
